@@ -1,0 +1,27 @@
+.flex-body{
+    display: flex;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
+
+.flex-d-column{
+    flex-direction: column;
+}
+
+.flex-d-row{
+    flex-direction: row;
+}
+
+.justify-evenly{
+    justify-content: space-evenly;
+}
+
+.justify-around{
+    justify-content: space-around;
+}
+
+.justify-between{
+    justify-content: space-between;
+}

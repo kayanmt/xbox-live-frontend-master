@@ -1,0 +1,9 @@
+.favoriteGameList-gameCard{
+    background-color: rgb(1, 65, 43);
+    margin: 20px;
+}
+
+.gameCardImage{
+    height: 180px;
+    width: 250px;
+}

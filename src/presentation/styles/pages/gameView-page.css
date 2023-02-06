@@ -1,0 +1,35 @@
+#gameView-gameBody{
+    color: wheat;
+    padding: 10px;
+}
+
+#gameView-titleDiv{
+    width: fit-content;
+    margin: auto;
+}
+
+#gameView-titleDiv-favoriteButton{
+    height: fit-content;
+    width: fit-content;
+    padding: 10px;
+    margin: 15px;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 20px;
+}
+
+#gameView-gameBody-gameDescriptionDiv{
+    width: fit-content;
+    margin: auto;
+}
+
+#gameView-gameBody-gameDescriptionDiv-gameDescription{
+    margin: 15px;
+    max-width: 250px;
+}
+
+#gameView-gameBody-gameDescriptionDiv-image{
+    width: 200px;
+    height: 170px;
+    border-radius: 3%;
+}

@@ -1,0 +1,7 @@
+.form{
+    width: 280px;
+    margin: auto;
+    border: solid 3px goldenrod;
+    border-radius: 2%;
+    padding: 10px;
+}

@@ -1,0 +1,16 @@
+#registerForm{
+    margin: auto;
+}
+
+#registerFormDiv{
+    height: 90vh;
+}
+
+#registerForm-title{
+    font-size: 30px;
+    margin: 10px;
+}
+
+#registerForm-buttonsDiv{
+    margin-top: 20px;
+}

@@ -1,0 +1,31 @@
+.border-light-green{
+    border: solid 2px rgb(4, 218, 57);
+}
+
+.border-dark-green{
+    border: solid 2px rgb(3, 121, 29);
+}
+
+.border-light-blue{
+    border: solid 2px rgb(10, 199, 183);
+}
+
+.border-dark-blue{
+    border: solid 2px rgb(3, 109, 100);
+}
+
+.border-light-red{
+    border: solid 2px rgb(221, 6, 6);
+}
+
+.border-dark-red{
+    border: solid 2px rgb(131, 4, 4);
+}
+
+.border-light-gray{
+    border: solid 2px rgb(170, 170, 170);
+}
+
+.border-dark-gray{
+    border: solid 2px rgb(78, 78, 78);
+}

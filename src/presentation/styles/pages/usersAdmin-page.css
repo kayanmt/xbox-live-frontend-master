@@ -1,0 +1,15 @@
+#adminUsersList-usersDiv{
+    margin-top: 20px;
+}
+
+.userCard {
+    text-align: left;
+    color: aliceblue;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.userCard:hover {
+    border-color: yellow;
+}

@@ -1,0 +1,16 @@
+#profileCreationForm-title {
+    font-size: 30px;
+    margin: 10px;
+}
+
+#profileCreationForm-buttonsDiv {
+    margin-top: 20px;
+}
+
+#profileCreationForm {
+   margin: auto;
+}
+
+#profileCreationFormDiv {
+    height: 90vh;
+}

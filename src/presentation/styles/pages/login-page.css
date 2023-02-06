@@ -1,0 +1,16 @@
+#loginForm{
+    margin: auto;
+}
+
+#loginFormDiv{
+    height: 90vh;
+}
+
+#loginForm-title{
+    font-size: 30px;
+    margin: 10px;
+}
+
+#loginForm-buttonsDiv{
+    margin-top: 20px;
+}

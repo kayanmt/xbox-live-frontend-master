@@ -1,0 +1,12 @@
+#profileForm-title,  #userAccountForm-title{
+    font-size: 30px;
+    margin: 10px;
+}
+
+#profileForm, #userAccountForm{
+    margin-top: 20px;
+}
+
+#profileForm-buttonsDiv, #userAccountForm-buttonsDiv{
+    margin-top: 20px;
+}
